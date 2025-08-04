@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    padding-top: 800px;
     text-align: center;
 }
 
 .spacefotomenu {
     display: table-cell;
+    padding-top: 85px;
     vertical-align: middle;
 }
 
@@ -43,7 +43,7 @@ a:hover {
 }
 
 #home {
-    position: absolute;
+    position: relative;
     bottom: 0;
     background: linear-gradient(rgb(173, 201, 206) 0%, rgb(184, 175, 213) 100%);
     display: table;
