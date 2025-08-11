@@ -79,3 +79,17 @@ h2 {
     width: 70px;
     margin: 8px auto;
 }
+
+@media-screen (max-width: 600px) {
+    body{
+        background-color: aliceblue;
+        font-size: 24px;
+    }
+}
+
+@media-screen (max-width: 600px) {
+    nav ul li {
+        display: block;
+        text-align: center;
+    }
+}
